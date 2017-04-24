@@ -1,0 +1,8 @@
+./wallace22/wallace1.txt
+./wallace22/wallace2.txt
+./pasta2/2.txt
+./wallace3.txt
+./pasta3/pasta31/3.txt
+./pasta1/1.txt
+./wallace1.txt
+./wallace2.txt

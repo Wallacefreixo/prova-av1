@@ -1,0 +1,12 @@
+grepdata.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+prova1-wallace.txt
+wallace1.txt
+wallace22
+wallace2.txt
+wallace3.txt
+wallace3.txt~
